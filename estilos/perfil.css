@@ -1,0 +1,58 @@
+*{
+    font-family: Arial;
+}
+header{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+header .informacion #fotoPerfil{
+    width: 175px;
+    height: 175px;
+    border: 1px;
+    border-radius: 300px;
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.informacion{
+    display: flex;
+    color: black;
+}
+.informacion h4{
+    margin: 20px;
+}
+.informacion button{
+    width: 100px;
+    height: 30px;
+    margin-top: 13px;
+    margin-left: 25px;
+    color: black;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+#herramientas{
+    width: 75px;
+    height: 45px;
+    margin-top: 8px;
+    color: white;
+    margin-left: 25px;
+}
+section{
+    background-color: lightgray;
+    width: 100%;
+    height: auto;
+}
+.recomendaciones{
+    margin-top: 50px;
+    margin-left: 23%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.recomendaciones button{
+    height: 50px;
+    width: 200px;
+    margin-left: 40px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+}
