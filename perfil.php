@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="estilos/perfil.css">
 </head>
 <body>
+    <php?
+    include_once 'header.php';
+    ?>
     <header>
         <div class="informacion">
         <h4>ViniciusJR</h4>
@@ -22,6 +25,9 @@
         <button>Imagenes de las actividades</button>
     </div>
     </section>
+    <php?
+    include_once 'footer.php';
+    ?>
     
     
 </body>
