@@ -11,13 +11,6 @@
     <php?
     include_once 'header.php';
     ?>
-    <header>
-        <div class="informacion">
-        <h4>ViniciusJR</h4>
-        <button>Editar perfil</button>
-        <button>Cerrar sesion</button>
-        </div>
-    </header>
     <section>
     <div class="recomendaciones">
         <button>Recomendaciones</button>
