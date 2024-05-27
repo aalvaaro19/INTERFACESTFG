@@ -45,36 +45,11 @@
             </li>
         </ul>
     </div>
-    <section>
-        <div class="grid">
-            <div class="actividadesAireLibre">
-                <img src="imagenes/aireLibre3.jpg">
-                <h1>Ven a descurbir nuestras actividades al aire libre</h1>
-            </div>
-            <div class="actividadesAireLibre">
-                <img src="imagenes/2.jpg">
-                <h1>Ven a descurbir nuestros campamentos deportivos de verano</h1>
-            </div>
-            <div class="actividadesAireLibre">
-                <img src="imagenes/excursiones1.jpg">
-                <h1>Ven a descurbir nuestras excursiones</h1>
-            </div>
-            <div class="actividadesAireLibre">
-                <img src="imagenes/semanal3.jpg">
-                <h1>Ven a descurbir nuestras extraescolares semanales</h1>
-            </div>
-        </div>
     
     </section>
-    <footer>
-        <div class="info"> 
-            <p>Podeis encontranos en la siguiente direccion:<a href="https://goo.gl/maps/7SjbXEhTFd3ScjoM7"> https://goo.gl/maps/7SjbXEhTFd3ScjoM7</a></p>
-            <p>Nuestro telefono de contacto:<a href="#"> 666254875</a></p>
-            <p>Nuestro correo electronico:<a href="#"> rieTresCantos@hotmail.es</a></p>
-            <p>Dejanos tu opinion en el siguiente enlace: <a href="file:///C:/Users/alvar/OneDrive/Escritorio/ProyectoIntegrador/satisfaccion.html">file:///C:/Users/alvar/OneDrive/Escritorio/ProyectoIntegrador/satisfaccion.html</a></p>
-        </div>
-        <img src="imagenes/logo_RIE.png">
-    </footer>
+    <?php
+        include "INCLUDES/footer.php";
+    ?>
     <script src="scripts/portada1.js"></script>
 </body>
 </html>

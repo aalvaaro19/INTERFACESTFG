@@ -34,9 +34,8 @@
                 <h1>Ayuda</h1>
                 <p>Preguntas frecuentes</p>
                 <p>Contáctanos</p>
-                <p>Política de Privacidad</p>
+                <p>Política de Privacidad y Uso de Cookies</p>
                 <p>Términos y Condiciones</p>
-                <p>Política de Cookies</p>
             </div>
             <div class="redesSociales">
                 <h1>Enlaces de Interés</h1>
