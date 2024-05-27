@@ -1,7 +1,7 @@
     <footer>
         <div class="relleno">
             <div id="suscripcion">
-                <h1>Suscríbete para recibir actualizaciones</h1>
+                <h1>Suscríbete para recibir novedades</h1>
                 <p>¡Entérate de las últimas actividades y eventos antes que nadie!</p>
                 <div class="busqueda">
                     <input type="email" name="email" id="email" placeholder="Introduce tu correo electrónico">

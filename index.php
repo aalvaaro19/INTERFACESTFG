@@ -17,8 +17,8 @@
     </header>
     <nav>
         <li><a href="#" id="subMenu">Telefono de contacto</a></li>
-        <li><a href="iniciosesion.html" id="subMenu">Iniciar sesion</a></li>
-        <li><a href="registro.html"  id="subMenu">Registrarse</a></li>
+        <li><a href="iniciosesion.php" id="subMenu">Iniciar sesion</a></li>
+        <li><a href="registro.php" id="subMenu">Registrarse</a></li>
         <li><a href="#" id="subMenu">Correo electronico de contacto</a></li>
     </nav>
     <div class="slider">
