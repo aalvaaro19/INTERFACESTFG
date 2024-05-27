@@ -102,6 +102,7 @@
     include_once 'INCLUDES/footerPerfil.php';
     ?>
     
+    <script src="scripts/perfil.js"></script>
     <script src="scripts/portada1.js"></script>
     <script src="scripts/sesion.js"></script>
 </body>

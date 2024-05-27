@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rie Tres Cantos</title>
-    <link rel="stylesheet" href="estilos/PortadaSinSesion.css">
+    <link rel="stylesheet" href="estilos/portadaSinLogin.css">
 </head>
 <body>
     <header>
@@ -45,7 +45,6 @@
             </li>
         </ul>
     </div>
-    
     </section>
     <?php
         include "INCLUDES/footer.php";

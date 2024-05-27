@@ -17,7 +17,7 @@
             <input type="submit" id="envio" class="fadeIn fourth" value="Iniciar sesión">
             </form>
             <div id="formFooter">
-            <a class="underlineHover" href="#">¿Has olvidado tu contraseña?</a>
+            <a class="underlineHover" href="contraseña.php">¿Has olvidado tu contraseña?</a>
             <a class="underlineHover" href="registro.php">¿No tienes cuenta?</a>
             </div>
         </div>
