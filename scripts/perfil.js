@@ -1,21 +1,13 @@
-window.onload = function() {
-    document.getElementById('listaDeActividades').style.display = 'none';
-    document.getElementById('editarPerfil').style.display = 'none';
-    
-    document.getElementById('listaActividades').addEventListener('click', function() {
-        // Mostrar el div de lista de actividades
-        document.getElementById('listaDeActividades').style.display = 'block';
-        // Ocultar el div de editar perfil
-        document.getElementById('editarPerfil').style.display = 'none';
+
+    document.getElementById("listaActividades").addEventListener('click', function() {   
+        document.getElementById('listarActividades').style.display = "block";
+        document.getElementById('editaPerfil').style.display = "none";
     });
 
-    document.getElementById('editarPerfil').addEventListener('click', function() {
-        // Mostrar el div de editar perfil
-        document.getElementById('editarPerfil').style.display = 'block';
-        // Ocultar el div de lista de actividades
-        document.getElementById('listaDeActividades').style.display = 'none';
+    document.getElementById("editarPerfil").addEventListener('click', function() {
+        document.getElementById('editaPerfil').style.display = "block";
+        document.getElementById('listarActividades').style.display = "none";
     });
-}
     
     
     

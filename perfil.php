@@ -18,7 +18,7 @@
             <button id="editarPerfil">Editar perfil</button>
         </div>
 
-        <div class="listaDeActividades">
+        <div id="listarActividades" style="display: none;">
             <div id="filtrador">
                 <ul>
                     <li id="colegios2">
@@ -79,7 +79,7 @@
             </div>
         </div>
 
-        <div class="editarPerfil">
+        <div id="editaPerfil" style="display: none;">
             <div class="wrapper fadeInDown">
                 <div id="formContent">
                     <h2 class="active">Mis datos</h2>
