@@ -79,7 +79,7 @@
             </div>
         </div>
 
-        <!-- <div class="editarPerfil">
+        <div class="editarPerfil">
             <div class="wrapper fadeInDown">
                 <div id="formContent">
                     <h2 class="active">Mis datos</h2>
@@ -95,7 +95,7 @@
                     </form>
                 </div>
             </div>
-        </div> -->
+        </div>
 
     </section>
     <?php
