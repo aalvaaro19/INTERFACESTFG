@@ -147,7 +147,7 @@ h1 {
 .promocion{
     text-align: center;
     text-transform: uppercase;
-    font-family: Playfair Display;
+
 }
 
 .promociones{
@@ -165,7 +165,6 @@ h1 {
     height: 120%;
     background-color: #f90;
     color: white;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 120%;
 }
 .caja1 p{
@@ -176,7 +175,6 @@ h1 {
 .caja2{
     border: 1px solid lightgray;
     height: 120%;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 120%;
 }
 
@@ -226,7 +224,6 @@ section{
     margin-top: 1%;
     margin-left: 34%;
     width: 44%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 85%;
 }
 
@@ -280,7 +277,6 @@ section{
 
 .idiomas{
     width: 44%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight:normal;
     font-size:80%;
     float: right;
@@ -292,7 +288,6 @@ section{
     font-size: 100%;
     margin-top: 1%;
     padding-left: 1%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 130%;
 }
 
@@ -311,7 +306,6 @@ section{
 .general h1{
     text-transform:uppercase;
     font-size:160%;
-    font-family:math;
 }
 
 .general p:hover{
@@ -325,7 +319,6 @@ section{
 }
 
 #sesion{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 14px;
     color: white;
     margin-left: 74%;
