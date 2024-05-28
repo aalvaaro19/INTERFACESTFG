@@ -1,6 +1,10 @@
-body {
-    font-family: Arial;
-    font-size:100%;
+body h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 /*Aqui tengo la personalizacion del header*/
 #abrir{
